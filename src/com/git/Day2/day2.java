@@ -7,6 +7,6 @@ public class day2 {
 		
 		System.out.println("push Git");
 		
-		Syste.out.println();
+		System.out.println();
 	}
 }
